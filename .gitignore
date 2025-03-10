@@ -1,0 +1,15 @@
+build/
+
+install/
+
+*.out
+
+*.pdf
+
+*.png
+
+*.nsys-rep
+
+*.sqlite
+
+*.qdrep
